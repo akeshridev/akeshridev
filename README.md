@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Prasad Keshri 👋
 
-**Engineering Lead · Android Engineer + AI native
+Android Engineer (15y) exploring On-Device AI
 
 15 years building consumer mobile platforms at scale, and — more recently — the
 production-grade AI agent systems that help engineering teams ship faster. I've spent my
